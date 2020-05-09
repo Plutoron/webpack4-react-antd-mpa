@@ -1,5 +1,5 @@
 ### 目录
-
+```
 ├── webpack.config.js        // 构建服务和webpack配置
 ├── dist                     // 项目build目录
 ├── index.html               // 项目入口文件
@@ -16,7 +16,7 @@
 │    ├── home
 │         ├── index.js               
 │         └── home.css    
-
+```
 ### 数据传输 
 
 数据用 emiiter 传输。组件逻辑向内聚合
